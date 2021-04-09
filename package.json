@@ -1,0 +1,22 @@
+{
+  "name": "decentralized-game-template",
+  "version": "0.0.1",
+  "description": "Decentralized Game Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "sirv docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alto-io/decentralized-game-example"
+  },
+  "author": "outplay.games",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alto-io/decentralized-game-example/issues"
+  },
+  "homepage": "https://github.com/alto-io/decentralized-game-example#readme",
+  "devDependencies": {
+    "sirv-cli": "^1.0.11"
+  }
+}
