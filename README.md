@@ -20,7 +20,7 @@ The repo includes the example Breakout game from Phaser 3.0 in the /docs folder.
 Deployment 
 ================
 
-Since the game is in the docs folder it can easily be deployed via <a href="settings/pages">Githhub Pages</a>.
+Since the game is in the docs folder it can easily be deployed via <a href="../../settings/pages">Github Pages</a>.
 
 ### Deploying on IPFS
 
@@ -31,9 +31,9 @@ To deploy on IPFS we need to do the following steps:
   * PINATA_API_KEY
   * PINATA_SECRET_KEY
 
-* Input the keys as <a href="secrets/actions">Repository Secrets</a>.
+* Input the keys as <a href="../../secrets/actions">Repository Secrets</a>.
 
-* Go to the <a href="actions/workflows/release.yaml">Release Workflow</a> on Github Actions and click `Run Workflow`.
+* Go to the <a href="../../actions/workflows/release.yaml">Release Workflow</a> on Github Actions and click `Run Workflow`.
 
 <!--
 
