@@ -40,6 +40,11 @@ To deploy on IPFS we need to do the following steps:
 * The game is now deployed and can be accessed using the IPFS gateways listed on the <a href="../../releases">Release Notes</a>
 
 
+Contributing
+=====================
+
+We hope to improve the template with your help! The <a href="../../discussions">Github Discussions</a> is a great way to get started.
+
 <!--
 
 ### Using A DNS
