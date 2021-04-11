@@ -37,6 +37,9 @@ To deploy on IPFS we need to do the following steps:
 
 * Go to the <a href="../../actions/workflows/release.yaml">Release Workflow</a> on Github Actions and click `Run Workflow`
 
+* The game is now deployed and can be accessed using the IPFS gateways listed on the <a href="../../releases">Release Notes</a>
+
+
 <!--
 
 ### Using A DNS
