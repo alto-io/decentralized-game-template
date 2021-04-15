@@ -15,7 +15,7 @@ Installation
 Running The Example Game
 ==============
 
-The repo includes the example Breakout game from Phaser 3.0 in the /docs folder.
+The repo includes the example Breakout game from Phaser 3.0.
 
 * `npm start`: Run the game locally
 
