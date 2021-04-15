@@ -24,7 +24,7 @@ Deployment
 
 ### Deploying on Github Pages
 
-Since the game is in the docs folder it can easily be deployed via the <a href="../../settings/pages">Github Pages Settings Page</a>.
+The game can be easily deployed via the <a href="../../settings/pages">Github Pages Settings Page</a>, using the root folder.
 
 ### Deploying on IPFS
 

@@ -2,9 +2,11 @@
   "name": "decentralized-game-template",
   "version": "0.0.1",
   "description": "Decentralized Game Example",
-  "main": "index.js",
   "scripts": {
-    "start": "sirv docs"
+    "serve": "sirv",
+    "start": "parcel index.html --open",
+    "build": "npm run clean && parcel build index.html --dist-dir ./dist",
+    "clean": "rimraf ./dist ./parcel-cache"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,15 @@
   },
   "homepage": "https://github.com/alto-io/decentralized-game-example#readme",
   "devDependencies": {
+    "@parcel/config-default": "2.0.0-beta.1",
+    "parcel": "2.0.0-beta.1",
+    "parcel-reporter-static-files-copy": "^1.2.2",
     "sirv-cli": "^1.0.11"
+  },
+  "dependencies": {},
+  "staticFiles": {
+    "staticPath": "assets",
+    "staticOutPath": "assets",
+    "watcherGlob": "**"
   }
 }

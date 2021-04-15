@@ -6,5 +6,9 @@ Thumbs.db
 *.sublime-project
 *.sublime-workspace
 
+# Build Files
+dist
+.parcel-cache
+
 # Vendors
 node_modules/
